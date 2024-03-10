@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm junior php developer
+
+* 🤔 Curious
+* 🫡 Collaborative
+* 🤖 Seeking my calling
 
 <!--
 **vladimir-xz/vladimir-xz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
