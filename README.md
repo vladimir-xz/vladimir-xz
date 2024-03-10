@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm junior php developer
+### Hello World 👋
+I'm junior php developer, which means:
 
 * 🤔 Curious
 * 🫡 Collaborative
