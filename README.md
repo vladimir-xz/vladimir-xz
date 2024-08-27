@@ -7,7 +7,7 @@ I'm junior php developer, which means:
 
 Unfinished higher education in Philosophy and Ethics Teaching
 
-## My tech stack for now:
+#### My tech stack for now:
 Laravel, PHP, PostgreSQL, JavaScript
   
 
