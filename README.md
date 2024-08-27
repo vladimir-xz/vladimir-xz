@@ -5,6 +5,12 @@ I'm junior php developer, which means:
 * 🫡 Collaborative
 * 🤖 Seeking my calling
 
+Unfinished higher education in Philosophy and Ethics Teaching
+
+## My tech stack for now:
+Laravel, PHP, PostgreSQL, JavaScript
+  
+
 <!--
 **vladimir-xz/vladimir-xz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
